@@ -1,6 +1,12 @@
 # The Good List
 
-This is a partial list of good companies and people I believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. 
+Everyone has a list of good companies and people they believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Mine just happens to be on GitHub.
+
+### Disclaimer
+
+This list should not be considered complete, nor does non-inclusion imply anything. For more information, and before complaining about it, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
+
+Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own, because I certainly don't know who all the good people are.
 
 ### How to think of this list
 
@@ -16,11 +22,6 @@ Names in __bold__ are people of exceptional quality—typically people I have wo
 
 Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
 
-### Disclaimer
-
-This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
-
-Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own.
 
 ## Good Companies
 
@@ -49,6 +50,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Adam Swift [{f}](https://www.facebook.com/redmud), [Apple]
 * Adrian Kosmaczewski [{W3}](http://kosmaczewski.net) [{@}](https://twitter.com/akosma) [{LI}](http://www.linkedin.com/in/akosma)
 * Alan Francis [{W3}](http://alancfrancis.com) [{a}](https://alpha.app.net/acf) [{@}](https://twitter.com/alancfrancis) [{LI}](http://www.linkedin.com/in/alancfrancis) [{GH}](https://github.com/acf), [LivingSocial](https://corporate.livingsocial.com)
+* Alan Rogers [{@}](https://twitter.com/alanjrogers)
 * Alastair Houghton [{@}](https://twitter.com/alastairh)
 * Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
 * Alex Cone [{@}](https://twitter.com/alexcone), [CodeFab]
@@ -64,6 +66,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
 * Amy Worrall [{W3}](http://amyworrall.com) [{a}](https://alpha.app.net/amy) [{@}](https://twitter.com/amyruthworrall) [{GH}](https://github.com/amyworrall)
 * André LaBranche [{W3}](http://dreness.com) [{@}](https://twitter.com/GuacamoleQueen) [{LI}](http://www.linkedin.com/pub/andre-labranche/2/517/aa8), [Apple]
+* Andrew Pontious [{@}](https://twitter.com/apontious)
 * __Andrew Stone__ [{@}](https://twitter.com/twittelator), [Stone Design](http://stone.com), __Industry Legend__
 * Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
@@ -71,7 +74,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
-* *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus}(http://codename-prometheus.eu)
+* *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus](http://codename-prometheus.eu)
 * Ariel Michaeli [{a}](https://alpha.app.net/rel) [{@}](https://twitter.com/arielmichaeli) [{LI}](http://www.linkedin.com/profile/view?id=15089805), [appFigures](http://appfigures.com)
 * Ash Furrow [{W3}](http://ashfurrow.com) [{@}](https://twitter.com/ashfurrow) [{GH}](https://github.com/AshFurrow)
 * August Joki [{f}](https://www.facebook.com/august.joki)
@@ -95,6 +98,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Brian Henderson [{me}](http://flavors.me/brian_henderson) [{@}](https://twitter.com/brian_henderson)
 * Brian LeRoux [{W3}](http://brian.io) [{@}](https://twitter.com/brianleroux) [{LI}](http://www.linkedin.com/profile/view?id=182534) [{GH}](https://github.com/brianleroux)
 * Brianna Wu [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal), Giant Spacekat
+* Bruno Koga [{@}](https://twitter.com/brunokoga) [{LI}](http://www.linkedin.com/in/brunokoga) [{GH}](https://github.com/brunokoga)
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
@@ -108,7 +112,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
-* __Chris "Clarko" Clark__ [{f}](https://www.facebook.com/christopher.russell.clark)
+* __Chris "Clarko" Clark__ [{@}](https://twitter.com/clarko) [{f}](https://www.facebook.com/christopher.russell.clark)
 * *Chris Espinosa* [{@}](https://twitter.com/cdespinosa) [{f}](https://www.facebook.com/cdespinosa), [Apple], __Industry Legend__
 * Chris Foresman [{@}](https://twitter.com/foresmac)
 * Chris Hansen [{@}](https://twitter.com/eschaton) [{f}](https://www.facebook.com/eschaton), [Apple]
@@ -120,7 +124,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Chris Walters [{@}](https://twitter.com/chwalters)
 * Christa Mrgan [{@}](https://twitter.com/antichrista), [Rogue Amoeba]
 * __Christine Palmieri-Bumgarner__ [{f}](https://www.facebook.com/bbumgarner)
-* Christopher Bowns [{f}](https://www.facebook.com/cbowns)
+* Christopher Bowns [{@}](https://twitter.com/cbowns) [{f}](https://www.facebook.com/cbowns)
 * Christopher Phin [{@}](https://twitter.com/chrisphin)
 * Chuck Toporek [{f}](https://www.facebook.com/chuckdude)
 * Cindy Morris
@@ -130,12 +134,12 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Cory Wiles [{W3}](http://corywiles.com/) [{@}](https://twitter.com/kwylez), [Salesforce]
 * Craig Hockenberry, [Iconfactory]
 * Craig Stanford [{@}](https://twitter.com/thepaddedcell)
-* Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
+* Dallas Brown [{@}](https://twitter.com/kdbdallas)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
 * Dan Counsell [{W3}](dancounsell.com) [{@}](https://twitter.com/dancounsell), [Realmac Software]
-* Dan Frakes
-* Dan North
+* Dan Frakes [{W3}](http://danfrakes.com) [{a}](https://alpha.app.net/danfrakes) [{@}](https://twitter.com/danfrakes)
+* Dan North [{W3}](http://dannorth.net) [{@}](https://twitter.com/tastapod)
 * Dan Weeks [{a}](http://alpha.app.net/danimal) [{@}](https://twitter.com/danimal)
 * Dan Wood
 * Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
@@ -154,6 +158,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
 *	__David Lanham__ [{W3}](http://dlanham.com) [{@}](https://twitter.com/dlanham) [{f}](https://www.facebook.com/pages/David-Lanham/37915836001)
 *	David Smith [{W3}](http://dscoder.com) [{@}](https://twitter.com/Catfish_Man)
+*	Davide Casarin [{@}](https://twitter.com/dcasarin)
 *	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
 *	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
 *	Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
@@ -177,12 +182,14 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Erik Romijn [{f}](https://www.facebook.com/cavia)
 *	Evadne Wu [{@}](https://twitter.com/evadne)
 *	Evan Davis
+*	Evgenia Grinblo [{@}](https://twitter,com/Grinblo)
 *	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
+*	Fabio Gallonetto [{@}](https://twitter.com/duhanebel)
 *	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
-*	Faruk Ates
+*	Faruk Ates [{@}](https://twitter.com/KuraFire)
 *	Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
-*	Felix Lepoutre
-*	Florian Brueckner
+*	Felix Lepoutre [{@}](https://twitter.com/FelixLepoutre)
+*	Florian Brueckner [{@}](https://twitter.com/bloomingbridges)
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
@@ -204,14 +211,18 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
 * Dr. Helge Staedtler [{W3}](http://noxymo.com) [{@}](https://twitter.com/noxymo) [{GH}](https://github.com/trailblazr)
 * Henry Balanon [{W3}](http://balanon.com) [{@}](https://twitter.com/balanon)
+* __Hernan "CJ" Calabrese__ [{W3}](http://hernanc.com.ar) [{@}](https://twitter.com/hernancalabrese)
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
 * Igor Sutton [{f}](https://www.facebook.com/igorsutton)
+* Ingrid Lunden [{@}](http://twitter.com/ingridlunden), [Techcrunch]
+* Isaiah Carew [{me}](http://about.me/isaiah) [{a}](https://alpha.app.net/isaiah) [{@}](https://twitter.com/isaiah) [YourHead Software](http://yourhead.com)
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
 * Jacqui Cheng [{me}](http://about.me/jacquicheng) [{@}](https://twitter.com/ejacqui)
+* Jaimee Newberry [{me}](http://ohheyjaimee.tumblr.com/about) [{@}](https://twitter.com/jaimeejaimee)
 * Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
@@ -219,6 +230,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * James Thomson, PCalc
 * Jana Boruta
 * Jane Lee [{W3}](http://janeylicious.com) [{@}](https://twitter.com/janeylicious) [{f}](https://www.facebook.com/janeylicious) [{G+}](https://plus.google.com/117394978411570387460)
+* __Jane McGonigal__ [{W3}](http://janemcgonigal.com) [{@}](https://twitter.com/avantgame), __Industry Legend__
 * Janene Pappas, [Black Pixel]
 * Jared Wyles
 * Jason Beaver [{f}](https://www.facebook.com/jasoncbeaver), [Apple]
@@ -244,23 +256,24 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey [{f}](https://www.facebook.com/jimdovey)
 * Jim Puls [{@}](https://twitter.com/puls)
-* Jiva DeVoe
+* Jiva DeVoe [{@}](https://twitter.com/jivadevoe) [{a}](https://alpha.app.net/jiva) [{f}](https://facebook.com/jiva.devoe), [Random Ideas]
 * Joe Heck [{f}](https://www.facebook.com/ccjoe)
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
-* Joey Hagedorn [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
+* Joey Hagedorn [{@}](https://twitter.com/joeyhagedorn) [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
 * __John Fox__
 * John Geleynse, [Apple]
 *	*John Gruber* [{@}](https://twitter.com/gruber)
 *	John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
 *	*John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
+* John Siracusa [{W3}](http://hypercritical.co) [{@}](https://twitter.com/siracusa)
 *	*John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
 * Jon Woodroof [{@}](https://twitter.com/twotoneatl), [Big Nerd Ranch]
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
 * Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
-* Jonathan Deutsch [{f}](https://www.facebook.com/tumultco), [Tumult]
+* Jonathan Deutsch [{@}](https://twitter.com/jmfd) [{f}](https://www.facebook.com/tumultco), [Tumult]
 * Jonathan Penn
 * Jonathan Rhyne, Smith Debnam Attorneys at Law
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
@@ -301,6 +314,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
 * Lassi Kurkijärvi [{@}](https://twitter.com/lassi), [Sanoma]
 * Laurens Bon [{f}](https://www.facebook.com/laurens.bon)
+* Laurent Baumann [{W3}](http://lbaumann.com) [{@}](https://twitter.com/lobau)
 * Lauwrens Metz
 * Layton Duncan
 * Lee Falin, [Rogue Amoeba]
@@ -322,6 +336,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Marga Keuvelaar [{@}](https://twitter.com/whakkee) [{f}](https://www.facebook.com/whakkee), Obvious Matter
 * Mark Aufflick [{W3}](http://mark.aufflick.com) [{@}](https://twitter.com/markaufflick)
 * Mark Boszko [{@}](https://twitter.com/bobtiki) [{f}](https://www.facebook.com/bobtiki)
+* Mark Dalrymple [{W3}](http://borkwarellc.wordpress.com) [{@}](https://twitter.com/borkware), [Big Nerd Ranch]
 * __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
@@ -329,21 +344,23 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Mark Voermans [{W3}](http://markvoer.com) [{@}](https://twitter.com/markvoer), [Microsoft]
 * Markus Nigrin
 * Martin Adoue
+* Martin Marconcini [{@}](https://twitter.com/Gryzor)
 * Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
 * __Mary Brunson__
 * Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
 * __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance) [{f}](https://www.facebook.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
 * Matt Johnson [{W3}](http://cimota.com) [{@}](https://twitter.com/cimota)
-* __Matt Gemmell__ [{W3}](mattgemmell.com) [{@}](https://twitter.com/mattgemmell)
+* __Matt Gemmell__ [{W3}](http://mattgemmell.com) [{@}](https://twitter.com/mattgemmell)
 * Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
-* Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
+* Mattt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
 * Mercedes Portales
 * Merel Ivens [{f}](https://www.facebook.com/MissMerel)
+* Michael Fey [{me}](http://about.me/michaelfey) [{@}](https://twitter.com/MrRooni)
 * Michael Gorbach [{f}](https://www.facebook.com/mgorbach), [Black Pixel]
 * __Dr. Michael Johnson__, [Pixar], __Industry Legend__
 * *Michael Margolis* [{W3}](http://shutternomad.com) [{@}](https://twitter.com/yipe)
@@ -351,7 +368,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Michael Simmons__
 * __Michael Jurewitz__ [{@}](https://twitter.com/Jury) [{f}](https://www.facebook.com/jurewitz), __Industry Legend__
 * __Michael Lowdermilk__ [{f}](https://www.facebook.com/michael.lowdermilk)
-* Michele Titolo
+* Michele Titolo [{@}](https://twitter.com/micheletitolo)
 * Michelle Yaiser
 * Michiel de Graaf [{W3}](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{f}](https://www.facebook.com/graafmichiel) [{d}](http://dribbble.com/michieldegraaf)
 * Michiel van Meeteren [{f}](https://www.facebook.com/michielvanmeeteren)
@@ -374,6 +391,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Neven Mrgan, [Panic]
 *	Nicole Wilker
 *	Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
+*	Nick vd Berg, [Small Mountain](http://smallmountain.nl)
 *	Pam Lefkowitz
 *	Pamela Fox
 *	Pat Costaldo
@@ -408,6 +426,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Rob Elkin [{@}](https://twitter.com/robelkin)
 *	__Rob Longridge__
 * __*Rob Rhyne*__ [{@}](https://twitter.com/capttaco), [MartianCraft]
+* Rob Rix [{@}](https://twitter.com/rob_rix) [{GH}](https://github.com/robrix), [Black Pixel]
 *	Robb Albright
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
@@ -419,6 +438,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Ros (Hodgekiss) De Vries
 * *Rudy Richter*
 * Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
+* Ryan Smith [Black Pixel]
 * Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
 * *Sam Noble*
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
@@ -444,6 +464,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
 * Steve Sorbo [{@}](https://twitter.com/macsosguy) [{f}](https://www.facebook.com/srsorbo) [{LI}](http://www.linkedin.com/pub/steve-sorbo/11/467/629), [MacS.O.S.](http://seattlemacsos.com)
+* Steve Weller [{W3}](http://steveweller.com) [{@}](https://twitter.com/Bagelturf)
 * Steven Frank, [Panic]
 * Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
 * __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
@@ -451,11 +472,12 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Thad McDowell
 * *Thijs van der Vossen* [{W3}](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
 * Thomas Muldowney [{@}](https://twitter.com/temas) [{LI}](http://www.linkedin.com/profile/view?id=4877683)
+* Tim Burks [{W3}](http://radtastical.com) [{@}](https://twitter.com/timburks) [{LI}](http://www.linkedin.com/in/timburks) [{GH}](https://github.com/timburks)
 * Tim Titus [{f}](https://www.facebook.com/TimTituskukje)
 * Tim Wood [{@}](https://twitter.com/tjw) [{LI}](http://www.linkedin.com/pub/timothy-wood/10/727/860), [Omni Group]
 * Timo de Winter [{W3}](http://timodewinter.nl) [{@}](https://twitter.com/timotje) [{LI}](http://www.linkedin.com/in/timodewinter)
 * Tom Clark, [Apple]
-* Tom Harrington
+* Tom Harrington [{W3}](http://atomicbird.com) [{@}](https://twitter.com/atomicbird)
 * Tom Maes [{@}](https://twitter.com/tmaes)
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
@@ -469,6 +491,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * __Victoria Wang__ [{@}](https://twitter.com/violasong)
 * Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
+* Vincent Foster [{@}](https:twitter.com/FosterTheFlow)
 * Volker Mohr [{W3}](http://elgrowzone.com) [{@}](https://twitter.com/elgrowzone)
 * Werner Vogels [{f}](https://www.facebook.com/wernervogels), [Amazon]
 * Whitney Deatherage
@@ -512,6 +535,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 [Rogue Amoeba]: http://www.rogueamoeba.com
 [Salesforce]: http://salesforce.com
 [Sanoma]: http://sanoma.com
+[Techcrunch]: http://techcrunch.com
 [The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
