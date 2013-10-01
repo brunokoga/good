@@ -30,8 +30,6 @@ Industry Legends are people who have been around for a very long time, are very 
 
 ## Good People
 
-* __*Marília Boer*__
-
 
 [2thinkers]: http://www.2thinkers.com
 [Central dos Apps]: http://www.centraldosapps.com
