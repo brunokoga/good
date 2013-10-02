@@ -31,25 +31,23 @@ Industry Legends are people who have been around for a very long time, are very 
 
 ## Good People
 
-Amy Kinney
-**Bruno Fernandes**
-Camila Pelizaro
-Christian Sampaio
-David Kinney
-David Sachs
-Fraser Speirs
-**Guilherme Andrade**
-Guilherme Kurama
-João Vitor Trevisan (Sabugo)
-Luiz Reolon
-**Marília Boer**
-Mike Lee
-Samuel Goodwin
-**Samuel Menezes**
-**Ylva Kronkvist**
-
+* Amy Kinney [{@}](https://www.twitter.com/amykinney)
+* __Bruno Fernandes__ [{W3}](http://www.brunofernand.es) [{@}](https://www.twitter.com/brun01)
+* Camila Pelizaro
+* Christian Sampaio
+* David Kinney
+* David Sachs
+* Fraser Speirs
+* __Guilherme Andrade__
+* Guilherme Kurama
+* João Vitor Trevisan (Sabugo)
+* Luiz Reolon
+* __Marília Boer__
+* Mike Lee [{@}](https://www.twitter.com/bmf)
+* Samuel Goodwin
+* __Samuel Menezes__
+* __Ylva Kronkvist__
 
 [2thinkers]: http://www.2thinkers.com
 [Central dos Apps]: http://www.centraldosapps.com
 [Github]: http://www.github.com
-
