@@ -27,10 +27,29 @@ Industry Legends are people who have been around for a very long time, are very 
 
 * [2thinkers]
 * [Central dos Apps]
+* [Github]
 
 ## Good People
+
+Amy Kinney
+**Bruno Fernandes**
+Camila Pelizaro
+Christian Sampaio
+David Kinney
+David Sachs
+Fraser Speirs
+**Guilherme Andrade**
+Guilherme Kurama
+João Vitor Trevisan (Sabugo)
+Luiz Reolon
+**Marília Boer**
+Mike Lee
+Samuel Goodwin
+**Samuel Menezes**
+**Ylva Kronkvist**
 
 
 [2thinkers]: http://www.2thinkers.com
 [Central dos Apps]: http://www.centraldosapps.com
+[Github]: http://www.github.com
 
