@@ -41,6 +41,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Guilherme Andrade__
 * Guilherme Kurama
 * Guilherme Mogames
+* Guilherme Sampaio Martinez
 * João Vitor Trevisan (Sabugo)
 * Luiz Reolon
 * __Marília Boer__
