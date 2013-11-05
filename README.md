@@ -1,5 +1,9 @@
 # The Good List 
 
+Mike Lee came up with this idea and I believe it's a way to praise the people that deserve be recommended or just recognized (by me) as good. Of course each one of us has our own definiton of *good*. These are the people that I know fit in my definition.
+Everything besides the list itself and this paragraph was written by Mike. I'll be adding my observations/definitions when I think it's necessary.
+
+
 Everyone has a list of good companies and people they believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Mine just happens to be on GitHub.
 
 ### Disclaimer
