@@ -38,7 +38,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Amy Kinney [{@}](https://www.twitter.com/amykinney)
 * __Bruno Fernandes__ [{W3}](http://www.brunofernand.es) [{@}](https://www.twitter.com/brun01)
 * Camila Pelizaro
-* Christian Sampaio
+* __Christian Sampaio__ [{W3}](http://chrisfsampaio.github.io)
 * David Kinney
 * David Sachs
 * Fraser Speirs
